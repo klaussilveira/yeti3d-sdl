@@ -1,0 +1,12 @@
+build
+Makefile.local
+*.swp
+*tags
+.Spotlight-V100/
+.Trashes/
+._*
+.AppleDouble
+.DS_Store
+.LSOverride
+*.o
+yeti
